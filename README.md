@@ -13,7 +13,7 @@ The application is **production ready**, and can be used behind a Nginx reverse 
 Step 1: Clone the repo
 
 ```bash
-
+https://github.com/Divya0115/Book-Project.git
 ```
 
 Step 2: cd into the cloned repo and run:
@@ -37,7 +37,5 @@ Step 4: Start the API by
 ```bash
 npm start
 ```
-
-## Author
 
 
