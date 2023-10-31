@@ -37,5 +37,10 @@ Step 4: Start the API by
 ```bash
 npm start
 ```
-
+Step 5: End points:
+Create API: http://localhost:3000/book, Method: POST
+Get API: http://localhost:3000/book, Method: GET
+Get by Id: http://localhost:3000/book/:id, Method: GET
+Update by Id: http://localhost:3000/book/:id, Method: PATCH
+Delete by Id: http://localhost:3000/book/:id, Method: DELETE
 
